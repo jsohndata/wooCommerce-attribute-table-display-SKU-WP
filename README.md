@@ -10,7 +10,7 @@ Custom WooCommerce snippet that appends the product’s SKU as the final row in 
 ---
 
 ## Working Sample
-[Sansefuria.com[(https://sansefuria.com/plants/sansevieria-trifasciata-moonshine-snake-plant-silver-queen-cbsan00/)
+[Sansefuria.com](https://sansefuria.com/plants/sansevieria-trifasciata-moonshine-snake-plant-silver-queen-cbsan00/)
 
 ---
 
